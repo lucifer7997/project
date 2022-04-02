@@ -1,0 +1,49 @@
+.search {
+  margin-top: 6px;
+}
+.wrapper {
+  display: flex;
+  width: 100%;
+  align-items: stretch;
+  margin-left: -12px;
+}
+.profile {
+  margin-top: 20px;
+}
+.customer{
+  margin:15px 10px 10px 10px;
+}
+hr {
+  border: 1px solid white;
+}
+h1,
+h2 {
+  text-align: center;
+}
+body {
+  background-color: whitesmoke;
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+.formError{
+	color: red;
+	font-size: small;
+	font-style: italic;	
+}
+.error{
+	color: red;
+	font-size: small;
+	font-style: italic;	
+}
+
+button {
+	width: 180px
+}
+textarea {
+	resize: none;
+}
+a {
+	text-decoration: none
+}
